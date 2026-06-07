@@ -160,7 +160,7 @@ $camerpay = new CamerPay(
 ## Support
 
 - Email : contact@camerpay.biz
-- Issues GitHub : https://github.com/madengue/camerpay/issues
+- Issues GitHub : https://github.com/camerpay/php-sdk/issues
 - Dashboard marchand : https://camerpay.biz/client
 
 ## Licence

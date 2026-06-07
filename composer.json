@@ -24,7 +24,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/madengue/camerpay/issues",
+        "issues": "https://github.com/camerpay/php-sdk/issues",
         "docs": "https://camerpay.biz/docs",
         "email": "contact@camerpay.biz"
     },
